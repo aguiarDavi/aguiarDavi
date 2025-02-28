@@ -10,8 +10,6 @@
 ### Contact Me 👇
 <div>
     <a href="https://www.linkedin.com/in/davi-aguiar-de-oliveira-b30b5b196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/04daviaoliveira/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
 ### Daily Life Technologies 💻
 <div>
