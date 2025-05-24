@@ -1,19 +1,19 @@
 ## Welcome to my profile! 👋  
 I'm a Full Stack Developer specializing in Backend Development. A tech enthusiast and generalist, always learning and exploring new technologies.
 
-### 🧰 Toolbox
+##### 🧰 Toolbox
 - Backend Development with Java EE  
 - Mobile Development with Java  
 - Databases: MongoDB, PostgreSQL, MySQL, SQL Server  
 - Git
 
-### 🚀 Improving
+##### 🚀 Improving
 - Backend Development with Spring  
 - Mobile Development with Flutter  
 - Frontend Development with React  
 - NLP and Computer Vision
 
-### 📚 Exploring
+##### 📚 Exploring
 - Ruby on Rails  
 - Cloud Computing
 
