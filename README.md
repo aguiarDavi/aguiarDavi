@@ -2,7 +2,7 @@
 I'm a Full Stack Developer specializing in Backend Development. A tech enthusiast and generalist, always learning and exploring new technologies.
 
 ##### 🧰 Toolbox
-- Backend Development with Java EE  
+- Backend Development with Jakarta EE  
 - Mobile Development with Java  
 - Databases: MongoDB, PostgreSQL, MySQL, SQL Server  
 - Git
